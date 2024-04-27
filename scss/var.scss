@@ -1,0 +1,32 @@
+%Robto-400 {
+    font-family: 'Roboto';
+    font-weight: 400;
+    src: url("../fonts/roboto.woff2") format('woff2'),
+         url("../fonts/roboto.woff") format('woff');
+}
+
+%Space-400 {
+    font-family: 'Space Age Cyrillic Regular';
+    font-weight: 400;
+    src: url("../fonts/spaceagecyrillic_regular.woff2") format('woff2'),
+         url("../fonts/spaceagecyrillic_regular.woff") format('woff');
+}
+
+%SF-400 {
+    font-family: 'SF-Pro-Display-Regular';
+    font-weight: 400;
+    src: url("../fonts/SF-Pro-Display-Regular.woff2") format('woff2'),
+         url("../fonts/SF-Pro-Display-Regular.woff") format('woff');
+}
+
+%SF-700 {
+    font-family: 'SF-Pro-Display-Bold';
+    font-weight: 700;
+    src: url("../fonts/SF-Pro-Display-Bold.woff2") format('woff2'),
+         url("../fonts/SF-Pro-Display-Bold.woff") format('woff');
+}
+
+$hover: #CB0E0E;
+$subtitle: #036CCA;
+$services: #E5E5E5;
+$contacts: #010203;

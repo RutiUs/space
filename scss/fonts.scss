@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 400;
+    src: url("../fonts/roboto.woff2") format('woff2'),
+         url("../fonts/roboto.woff") format('woff');
+    font-display: swap;
+    
+}
+
+@font-face {
+    font-family: 'Space Age Cyrillic Regular';
+    font-weight: 400;
+    src: url("../fonts/spaceagecyrillic_regular.woff2") format('woff2'),
+         url("../fonts/spaceagecyrillic_regular.woff") format('woff');
+    font-display: swap;
+    
+}
+
+@font-face {
+    font-family: 'SF-Pro-Display-Regular';
+    font-weight: 400;
+    src: url("../fonts/SF-Pro-Display-Regular.woff2") format('woff2'),
+         url("../fonts/SF-Pro-Display-Regular.woff") format('woff');
+    font-display: swap;
+
+}
+
+@font-face {
+    font-family: 'SF-Pro-Display-Bold';
+    font-weight: 700;
+    src: url("../fonts/SF-Pro-Display-Bold.woff2") format('woff2'),
+         url("../fonts/SF-Pro-Display-Bold.woff") format('woff');
+    font-display: swap;
+}
